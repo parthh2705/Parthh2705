@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**parthh2705/Parthh2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science Graduate
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Sales Dashboard in Power BI
+- SQL Analysis Project
+- Python Data Cleaning Project
+
+## Contact
+LinkedIn: www.linkedin.com/in/parth-gholap2705
+Email: parthgholap2705@gmail.com
