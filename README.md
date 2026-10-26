@@ -1,6 +1,8 @@
 # Hi, I'm Parth Gholap 👋
-##Data Analyst | MIS / Reporting Analyst | Operations Analyst
-##📍 Mumbai, India | 🎓 B.Sc. Data Science Graduate (2026)
+
+### Data Analyst | MIS / Reporting Analyst | Operations Analyst
+
+📍 Mumbai, India | 🎓 B.Sc. Data Science Graduate (2026)
 
 I'm a B.Sc. Data Science graduate interested in using data to solve business problems and support better decisions.
 
@@ -8,48 +10,47 @@ I work with SQL, Python, Excel and Power BI for data cleaning, analysis, reporti
 
 I'm currently looking for entry-level opportunities in Data Analytics, MIS/Reporting and Operations Analytics.
 
+---
+
 ## 🛠️ Technical Skills
 
-Programming & Data Analysis
+**Programming & Data Analysis**
 
-Python, Pandas, NumPy
+- Python, Pandas, NumPy
+- SQL, PostgreSQL, MySQL
+- Data Cleaning, Exploratory Data Analysis (EDA)
 
-SQL, PostgreSQL, MySQL
+**Business Intelligence & Reporting**
 
-Data Cleaning, Exploratory Data Analysis (EDA)
+- Power BI
+- Microsoft Excel
+- Dashboards, Data Visualization, Reporting
 
-Business Intelligence & Reporting
+**Tools**
 
-Power BI
+- Jupyter Notebook
+- Git and GitHub
 
-Microsoft Excel
+---
 
-Dashboards, Data Visualization, Reporting
+## 📌 Featured Projects
 
-Tools
-
-Jupyter Notebook
-
-Git and GitHub
-##📌 Featured Projects
 - Sales Dashboard in Power BI
 - SQL Analysis Project
 - Python Data Cleaning Project
 
-##🎯 Currently
 
-Strengthening SQL and Excel skills for analytics and reporting roles
+## 🎯 Currently
 
-Practicing Power BI dashboards and data visualization
+- Strengthening SQL and Excel skills for analytics and reporting roles
+- Practicing Power BI dashboards and data visualization
+- Improving my ability to explain data insights clearly
+- Looking for full-time, entry-level opportunities in Mumbai
 
-Improving my ability to explain data insights clearly
-
-Looking for full-time, entry-level opportunities in Mumbai
+---
 
 ## 📫 Let's Connect
 
-LinkedIn: Connect with me
-
-Email: parthgholap2705@gmail.com
-
-GitHub: View my repositoriesap2705@gmail.com
+- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **Email:** [parthgholap2705@gmail.com](mailto\:parthgholap2705@gmail.com)
+- **GitHub:** [View my repositories](https://github.com/USERNAME)
