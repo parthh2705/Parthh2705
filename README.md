@@ -51,6 +51,6 @@ I'm currently looking for entry-level opportunities in Data Analytics, MIS/Repor
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/parth-gholap2705)
 - **Email:** [parthgholap2705@gmail.com](mailto\:parthgholap2705@gmail.com)
-- **GitHub:** [View my repositories](https://github.com/USERNAME)
+- **GitHub:** [View my repositories](https://github.com/parthh2705)
