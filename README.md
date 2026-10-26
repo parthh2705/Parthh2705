@@ -1,6 +1,6 @@
 # Hi, I'm Parth Gholap 👋
-Data Analyst | MIS / Reporting Analyst | Operations Analyst
-📍 Mumbai, India | 🎓 B.Sc. Data Science Graduate (2026)
+##Data Analyst | MIS / Reporting Analyst | Operations Analyst
+##📍 Mumbai, India | 🎓 B.Sc. Data Science Graduate (2026)
 
 I'm a B.Sc. Data Science graduate interested in using data to solve business problems and support better decisions.
 
@@ -31,12 +31,12 @@ Tools
 Jupyter Notebook
 
 Git and GitHub
-📌 Featured Projects
+##📌 Featured Projects
 - Sales Dashboard in Power BI
 - SQL Analysis Project
 - Python Data Cleaning Project
 
-🎯 Currently
+##🎯 Currently
 
 Strengthening SQL and Excel skills for analytics and reporting roles
 
