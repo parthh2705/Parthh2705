@@ -31,7 +31,7 @@ Tools
 Jupyter Notebook
 
 Git and GitHub
-##📌 Featured Projects
+📌 Featured Projects
 - Sales Dashboard in Power BI
 - SQL Analysis Project
 - Python Data Cleaning Project
